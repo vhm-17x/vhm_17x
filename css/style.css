@@ -303,7 +303,6 @@ section.active .home-img .img-box {
     display: inline-block;
     color: transparent;
     -webkit-text-stroke: .07rem var(--main-color);
-    animation: display-text 16s linear infinite;
     animation-delay: calc(-4s * var(--i));
 }
 
@@ -1059,4 +1058,5 @@ section.active .home-img .img-box {
     .contact-box h2 {
         font-size: 3.5rem;
     }
+
 }
